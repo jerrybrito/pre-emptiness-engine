@@ -1,0 +1,2 @@
+# Requires: anti-waiting
+# (Not available on PyPI)
